@@ -1,0 +1,5 @@
+/Users/bogdanpopescu/test/dotnet/App/bin/Release/net8.0/publish/DotNet.Docker
+/Users/bogdanpopescu/test/dotnet/App/bin/Release/net8.0/publish/DotNet.Docker.dll
+/Users/bogdanpopescu/test/dotnet/App/bin/Release/net8.0/publish/DotNet.Docker.deps.json
+/Users/bogdanpopescu/test/dotnet/App/bin/Release/net8.0/publish/DotNet.Docker.runtimeconfig.json
+/Users/bogdanpopescu/test/dotnet/App/bin/Release/net8.0/publish/DotNet.Docker.pdb

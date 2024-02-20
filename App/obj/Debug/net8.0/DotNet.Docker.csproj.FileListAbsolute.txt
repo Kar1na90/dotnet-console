@@ -1,0 +1,14 @@
+/Users/bogdanpopescu/test/dotnet/App/bin/Debug/net8.0/DotNet.Docker
+/Users/bogdanpopescu/test/dotnet/App/bin/Debug/net8.0/DotNet.Docker.deps.json
+/Users/bogdanpopescu/test/dotnet/App/bin/Debug/net8.0/DotNet.Docker.runtimeconfig.json
+/Users/bogdanpopescu/test/dotnet/App/bin/Debug/net8.0/DotNet.Docker.dll
+/Users/bogdanpopescu/test/dotnet/App/bin/Debug/net8.0/DotNet.Docker.pdb
+/Users/bogdanpopescu/test/dotnet/App/obj/Debug/net8.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanpopescu/test/dotnet/App/obj/Debug/net8.0/DotNet.Docker.AssemblyInfoInputs.cache
+/Users/bogdanpopescu/test/dotnet/App/obj/Debug/net8.0/DotNet.Docker.AssemblyInfo.cs
+/Users/bogdanpopescu/test/dotnet/App/obj/Debug/net8.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/Users/bogdanpopescu/test/dotnet/App/obj/Debug/net8.0/DotNet.Docker.dll
+/Users/bogdanpopescu/test/dotnet/App/obj/Debug/net8.0/refint/DotNet.Docker.dll
+/Users/bogdanpopescu/test/dotnet/App/obj/Debug/net8.0/DotNet.Docker.pdb
+/Users/bogdanpopescu/test/dotnet/App/obj/Debug/net8.0/DotNet.Docker.genruntimeconfig.cache
+/Users/bogdanpopescu/test/dotnet/App/obj/Debug/net8.0/ref/DotNet.Docker.dll
